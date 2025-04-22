@@ -4,8 +4,6 @@ Server.py listens to the client connections. When a new
 client connects, the server accepts the connection and
 reads any data.
 -------------------------------------------------------
-Author:  Gaurav Ladhar
--------------------------------------------------------
 """
 # Server.py
 import socket
